@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\OlioOhjelmointiWpf\OlioOhjelmointiWpf\bin\Debug\OlioOhjelmointiWpf.exe.config
+C:\Users\Lenovo\source\repos\OlioOhjelmointiWpf\OlioOhjelmointiWpf\bin\Debug\OlioOhjelmointiWpf.exe
+C:\Users\Lenovo\source\repos\OlioOhjelmointiWpf\OlioOhjelmointiWpf\bin\Debug\OlioOhjelmointiWpf.pdb
+C:\Users\Lenovo\source\repos\OlioOhjelmointiWpf\OlioOhjelmointiWpf\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\source\repos\OlioOhjelmointiWpf\OlioOhjelmointiWpf\obj\Debug\App.g.cs
+C:\Users\Lenovo\source\repos\OlioOhjelmointiWpf\OlioOhjelmointiWpf\obj\Debug\OlioOhjelmointiWpf_MarkupCompile.cache
+C:\Users\Lenovo\source\repos\OlioOhjelmointiWpf\OlioOhjelmointiWpf\obj\Debug\OlioOhjelmointiWpf_MarkupCompile.lref
+C:\Users\Lenovo\source\repos\OlioOhjelmointiWpf\OlioOhjelmointiWpf\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\source\repos\OlioOhjelmointiWpf\OlioOhjelmointiWpf\obj\Debug\OlioOhjelmointiWpf.g.resources
+C:\Users\Lenovo\source\repos\OlioOhjelmointiWpf\OlioOhjelmointiWpf\obj\Debug\OlioOhjelmointiWpf.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\OlioOhjelmointiWpf\OlioOhjelmointiWpf\obj\Debug\OlioOhjelmointiWpf.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\OlioOhjelmointiWpf\OlioOhjelmointiWpf\obj\Debug\OlioOhjelmointiWpf.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\OlioOhjelmointiWpf\OlioOhjelmointiWpf\obj\Debug\OlioOhjelmointiWpf.exe
+C:\Users\Lenovo\source\repos\OlioOhjelmointiWpf\OlioOhjelmointiWpf\obj\Debug\OlioOhjelmointiWpf.pdb
+C:\Users\Lenovo\source\repos\OlioOhjelmointiWpf\OlioOhjelmointiWpf\obj\Debug\OlioOhjelmointiWpf.csprojAssemblyReference.cache
